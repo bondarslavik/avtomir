@@ -1,0 +1,22 @@
+User-Agent: *
+Disallow: /page19766781.html
+Disallow: /header
+Disallow: /page19785930.html
+Disallow: /footer
+Disallow: /page20353944.html
+Disallow: /error_404
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow: /tilda/cart*
+Disallow: /tilda/product*
+Disallow: /tilda/event*
+Disallow: /*_escaped_fragment_*
+Disallow:
+
+
+Sitemap: https://avtomir.vn.ua/sitemap.xml
+Sitemap: https://avtomir.vn.ua/sitemap-store.xml
+Host: https://avtomir.vn.ua
