@@ -1,0 +1,22 @@
+<!-- Google Tag Manager -->
+<!-- End Google Tag Manager -->
+
+<\!\-\- Google Tag Manager \-\-\>[\S\s]*\<\!\-\- End Google Tag Manager \-\-\>
+
+<!-- Google Tag Manager (noscript) -->
+<!-- End Google Tag Manager (noscript) -->
+
+<\!\-\- Google Tag Manager \(noscript\) \-\-\>[\S\s]*\<\!\-\- End Google Tag Manager \(noscript\) \-\-\>
+
+
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CF4E10L8SP"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-CF4E10L8SP');
+</script>
+<!-- End Google tag (gtag.js) -->
